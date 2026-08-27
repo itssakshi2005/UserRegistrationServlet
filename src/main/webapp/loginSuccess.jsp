@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Registration Successful</title>
+    <title>Login Successful</title>
 
     <style>
         body {
