@@ -17,7 +17,7 @@ public class RegisterServlet extends HttpServlet {
         String cpassword = request.getParameter("cpassword");
 
        if (password.equals(cpassword)) {
-    response.sendRedirect("success.jsp");
+    response.sendRedirect("registrationSuccess.jsp");
 } else {
     response.getWriter().println("Password and Confirm Password do not match");
 }

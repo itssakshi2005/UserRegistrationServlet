@@ -80,6 +80,7 @@
         <input type="password" name="cpassword" required>
 
         <button type="submit">Register</button>
+        <p>Already have an account? <a href="login.jsp">Login here</a></p>
 
     </form>
 
